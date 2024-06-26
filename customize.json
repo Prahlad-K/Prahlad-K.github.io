@@ -3,7 +3,7 @@
   "name": "Prateek!",
   "greetingText": "Kya haal hai sir :D",
   "wishText": "",
-  "imagePath": "img/Bday.jpg",
+  "imagePath": "img/Bday.png",
   "text1": "Aaj aapka janamdin hai!!! :D",
   "textInChatBox": "Prateek ko GPL digitally kaise diya jaaye.....",
   "sendButtonLabel": "Send",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "",
   "outroText": "Kaisa laga sir?",
-  "replayText": "Gareebon ka yaad karte rehna",
+  "replayText": "",
   "outroSmiley": ":)"
 }
