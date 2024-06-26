@@ -3,13 +3,13 @@
   "name": "Prateek!",
   "greetingText": "Kya haal hai sir :D",
   "wishText": "",
-  "imagePath": "img/Bday.png",
+  "imagePath": "img/Bday-small.png",
   "text1": "Aaj aapka janamdin hai!!! :D",
   "textInChatBox": "Prateek ko GPL digitally kaise diya jaaye.....",
   "sendButtonLabel": "Send",
   "text2": "Vohi hum search karne vale the",
   "text3": "Par phir humne socha yaar",
-  "text4": "Kuch aur mast karte hai, memorable :)",
+  "text4": "Kuch aur mast karte hai, ",
   "text4Adjective": "memorable",
   "text5Entry": "Kyunki,",
   "text5Content": "Aap buddhe ho rahe ho, silver jubilee touch kardi!",
@@ -18,6 +18,6 @@
   "bigTextPart2": "O",
   "wishHeading": "",
   "outroText": "Kaisa laga sir?",
-  "replayText": "",
+  "replayText": "Accha laga toh yaha click maardo",
   "outroSmiley": ":)"
 }
